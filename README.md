@@ -32,16 +32,9 @@ The Dicee Game is a two-player game where each player rolls a die. The player wi
 
 3. Refresh the website to start the game.
 
----
+OR 
 
-### Python Console Version
-1. Ensure Python is installed on your system.
-2. Run the following command:
-   ```bash
-   python dicee_game.py
-   ```
-3. Follow the prompts to play the game in the console.
-
+https://vanshika-aggarwal1.github.io/dice_game/
 ---
 
 ## 🌟 How It Works
@@ -54,17 +47,9 @@ The Dicee Game is a two-player game where each player rolls a die. The player wi
 
 ---
 
-## 📸 Screenshots
-
-### Web Version:
-![Dicee Game Screenshot](https://via.placeholder.com/600x300)
-
----
-
 ## 🔧 Built With
 
 - **HTML, CSS, JavaScript** for the web version.
-- **Python** for the console version.
 
 ---
 
